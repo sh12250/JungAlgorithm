@@ -1,10 +1,10 @@
 # [unrated] 문자열 붙여서 출력하기 - 181946 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946?language=cpp) 
 
 ### 성능 요약
 
-메모리: 3.69 MB, 시간: 2.54 ms
+메모리: 3.63 MB, 시간: 1.54 ms
 
 ### 구분
 
